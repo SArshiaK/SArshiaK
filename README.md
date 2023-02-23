@@ -7,9 +7,11 @@
 - 📫 How to reach me **arshia9314@gmail.com**
 
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarshiak&show_icons=true&locale=en&layout=compact&theme=gotham&background=000000" alt="sarshiak" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarshiak&show_icons=true&locale=en&theme=gotham&background=000000" alt="sarshiak" /></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarshiak&theme=gotham&background=000000)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
