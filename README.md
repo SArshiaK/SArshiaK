@@ -8,9 +8,9 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarshiak&show_icons=true&locale=en&layout=compact&theme=gotham&background=000000" alt="sarshiak" /></p>
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=sarshiak&show_icons=true&locale=en&layout=compact&theme=gotham&background=000000" alt="sarshiak" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarshiak&show_icons=true&locale=en&theme=gotham&background=000000" alt="sarshiak" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sarshiak&show_icons=true&locale=en&theme=gotham&background=000000" alt="sarshiak" /></p>
 
 
 <h3 align="left">Connect with me:</h3>
