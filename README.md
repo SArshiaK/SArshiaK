@@ -28,14 +28,11 @@ What I actually use.
 | **AI / LLM** | OpenAI, Ollama, RAG, Qdrant, ChromaDB |
 | **Infra** | Docker, Kubernetes, GitHub Actions, GitLab CI, RabbitMQ, Git |
 
+
+
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,express,react,nextjs,postgres,mongodb,mysql,redis,prisma,docker,kubernetes,rabbitmq,git&perline=8" alt="Tech stack" />
 </p>
 
-## Contributions
-
-<p align="center">
-  <a href="https://github.com/SArshiaK">
-    <img src="https://ghchart.rshah.org/2ea043/SArshiaK" alt="GitHub contributions" />
-  </a>
-</p>
+## 
