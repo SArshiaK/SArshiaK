@@ -12,27 +12,43 @@ I write backend services in **TypeScript** — mostly **NestJS** on Node.js, wit
 
 **Now**
 - Shipping NestJS APIs 
-- MSc research: self-healing mechanisms in federated learning — so distributed training can detect faults and recover without a single point of failure
+- MSc research: self-healing mechanisms in federated learning — so distributed training can detect when the system is unhealthy or degraded, even while it is still running, and recover without a single point of failure
 
 ## Stack
 
 What I actually use.
 
-| | |
-| :--- | :--- |
-| **Language** | TypeScript, JavaScript |
-| **Backend** | NestJS, Express, REST, JWT, gRPC, Socket.io, Swagger |
-| **Frontend** | React, Next.js |
-| **Data** | PostgreSQL, MySQL, MongoDB, Redis |
-| **ORM / ODM** | Prisma, TypeORM, Sequelize, Mongoose |
-| **AI / LLM** | OpenAI, Ollama, RAG, Qdrant, ChromaDB |
-| **Infra** | Docker, Kubernetes, GitHub Actions, GitLab CI, RabbitMQ, Git |
-
-
-
+<table>
+  <tr>
+    <td><strong>Language</strong></td>
+    <td>TypeScript, JavaScript</td>
+  </tr>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>NestJS, Express, REST, JWT, gRPC, Socket.io, Swagger</td>
+  </tr>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>React, Next.js</td>
+  </tr>
+  <tr>
+    <td><strong>Data</strong></td>
+    <td>PostgreSQL, MySQL, MongoDB, Redis</td>
+  </tr>
+  <tr>
+    <td><strong>ORM / ODM</strong></td>
+    <td>Prisma, TypeORM, Sequelize, Mongoose</td>
+  </tr>
+  <tr>
+    <td><strong>AI / LLM</strong></td>
+    <td>OpenAI, Ollama, RAG, Qdrant, ChromaDB</td>
+  </tr>
+  <tr>
+    <td><strong>Infra</strong></td>
+    <td>Docker, Kubernetes, GitHub Actions, GitLab CI, RabbitMQ, Git</td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,express,react,nextjs,postgres,mongodb,mysql,redis,prisma,docker,kubernetes,rabbitmq,git&perline=8" alt="Tech stack" />
 </p>
-
-## 
