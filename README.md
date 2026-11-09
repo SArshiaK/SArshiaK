@@ -8,6 +8,12 @@
   </p>
 </div>
 
+<p align="center">
+  <a href="https://sarshiak.github.io/whoami/">
+    <img src="https://img.shields.io/badge/%24_whoami-sarshiak.github.io-00e676?style=for-the-badge&labelColor=0d1117&logo=gnubash&logoColor=00e676" alt="whoami" height="48" />
+  </a>
+</p>
+
 I write backend services in **TypeScript** — mostly **NestJS** on Node.js, with PostgreSQL / MongoDB / Redis underneath. I also wire those APIs to LLMs when needed: RAG, embeddings, and vector search. I work as a backend developer, and I’m an MSc student at **Iran University of Science and Technology**, doing research at the Distributed Systems Lab.
 
 **Now**
